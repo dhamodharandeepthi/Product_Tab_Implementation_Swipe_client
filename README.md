@@ -1,5 +1,11 @@
 # Invoice Management System
 
+Deployed Link - https://product-tab-added-in-swipe-invoice.netlify.app/
+
+Demo video 
+
+https://github.com/user-attachments/assets/0fd9e051-5d40-4a30-af8b-36d760c141b3
+
 ## ProductsTab Component
 
 ### Overview
